@@ -1,0 +1,1 @@
+Topics covered - Basic maths, prime factorization, sieve, GCD
